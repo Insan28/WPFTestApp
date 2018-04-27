@@ -1,0 +1,15 @@
+C:\Users\Хозяин\source\repos\WPFTestApp\WPFTestApp\bin\Debug\WPFTestApp.exe.config
+C:\Users\Хозяин\source\repos\WPFTestApp\WPFTestApp\bin\Debug\WPFTestApp.exe
+C:\Users\Хозяин\source\repos\WPFTestApp\WPFTestApp\bin\Debug\WPFTestApp.pdb
+C:\Users\Хозяин\source\repos\WPFTestApp\WPFTestApp\obj\Debug\WPFTestApp.csprojResolveAssemblyReference.cache
+C:\Users\Хозяин\source\repos\WPFTestApp\WPFTestApp\obj\Debug\MainWindow.g.cs
+C:\Users\Хозяин\source\repos\WPFTestApp\WPFTestApp\obj\Debug\App.g.cs
+C:\Users\Хозяин\source\repos\WPFTestApp\WPFTestApp\obj\Debug\WPFTestApp_MarkupCompile.cache
+C:\Users\Хозяин\source\repos\WPFTestApp\WPFTestApp\obj\Debug\WPFTestApp_MarkupCompile.lref
+C:\Users\Хозяин\source\repos\WPFTestApp\WPFTestApp\obj\Debug\MainWindow.baml
+C:\Users\Хозяин\source\repos\WPFTestApp\WPFTestApp\obj\Debug\WPFTestApp.g.resources
+C:\Users\Хозяин\source\repos\WPFTestApp\WPFTestApp\obj\Debug\WPFTestApp.Properties.Resources.resources
+C:\Users\Хозяин\source\repos\WPFTestApp\WPFTestApp\obj\Debug\WPFTestApp.csproj.GenerateResource.cache
+C:\Users\Хозяин\source\repos\WPFTestApp\WPFTestApp\obj\Debug\WPFTestApp.csproj.CoreCompileInputs.cache
+C:\Users\Хозяин\source\repos\WPFTestApp\WPFTestApp\obj\Debug\WPFTestApp.exe
+C:\Users\Хозяин\source\repos\WPFTestApp\WPFTestApp\obj\Debug\WPFTestApp.pdb

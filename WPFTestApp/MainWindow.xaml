@@ -1,0 +1,13 @@
+﻿<Window x:Class="WPFTestApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPFTestApp"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid x:Name="grid1">
+        <Button x:Name="button1" Height="30" Width="100" Content="Action" Click="Button_Click" Margin="339,41,354.6,349"/>
+        <TextBox x:Name="text1" HorizontalAlignment="Left" Height="283" Margin="34,103,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="722"/>
+    </Grid>
+</Window>
